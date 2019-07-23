@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "c",
+        "org_apache_jsp_test_jsp_jniclass.h": "c",
+        "__locale": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
